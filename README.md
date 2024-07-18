@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anmol Kumar</h1>
 <h3 align="center">Passinate learner | AI/ML Enthusiaste | Love to Code</h3>
+<img align = "right" width = 400 src = "https://i.pinimg.com/originals/b8/b7/fa/b8b7faa068cb612f21a7f7268313064b.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol-kumar01&label=Profile%20views&color=0e75b6&style=flat" alt="anmol-kumar01" /> </p>
 
