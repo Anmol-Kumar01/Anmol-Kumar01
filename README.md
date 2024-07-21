@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Image Processing**
 
-- 🌱 I’m currently learning **Django, Js and Web Development**
+- 🌱 I’m currently learning **AI/ML, Deep Learning, Django, Js and Web Development**
 
 - 📝 I regularly write articles on [https://medium.com/@anmol888236](https://medium.com/@anmol888236)
 
